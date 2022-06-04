@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Gaikwad</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
+<h3 align="center">An ambitious✌, self-motivated, and confident Java back-end developer😊 with considerable technical skills😎 who possesses self-discipline and a growth mindset</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushig777&label=Profile%20views&color=0e75b6&style=flat" alt="rushig777" /> </p>
 
