@@ -60,13 +60,19 @@
          <tr>
             <td>3.</td>
             <td><a href="https://github.com/rushig777/bathandbodyworks-clone">bathandbodyworks-clone</a></td>
-            <td>HTML | CSS | JavaScript | React.js | Redux | styled-components</td>
+            <td>CSS | JavaScript | React.js | Redux | styled-components</td>
             <td><a href="https://singular-kleicha-5eef4a.netlify.app/">DEMO</a></td>
         </tr>
         <tr>
             <td>4.</td>
             <td><a href="https://github.com/rushig777/Cricinfo-Clone">espncricinfo-clone</a></td>
-            <td>HTML | CSS | JavaScript | React.js | Node.js | Express.js | Material UI </td>
+            <td>CSS | JavaScript | React.js | Node.js | Express.js | Material UI </td>
+            <td><a href="https://espncricinfo-clone.netlify.app/">DEMO</a></td>
+        </tr>
+          <tr>
+            <td>4.</td>
+            <td><a href="https://github.com/rushig777/festive-crayon-1023">Max-fashion-clone</a></td>
+            <td>CSS | JavaScript | Next.js | Redux | Node.js | Express.js | mongoDB | Jwt | Material UI | bootstrap </td>
             <td><a href="https://espncricinfo-clone.netlify.app/">DEMO</a></td>
         </tr>
     </tbody>  
