@@ -1,3 +1,4 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rushig777&label=Profile%20views&color=0e75b6&style=flat" alt="rushig777" /> </p>
 <h1 align="center">Hi 👋, I'm Rushikesh Gaikwad</h1>
 <h4 align="center">An ambitious✌, self-motivated, and confident Full stack developer😊 with considerable technical skills😎 who possesses self-discipline and a growth mindset</h4>
 <div align="center">
@@ -5,7 +6,7 @@
 </div>  
 
 
-
+<br/>
 🌍  I'm based in Pune, Maharashtra
 
 🌱 I’m currently learning Next.js
