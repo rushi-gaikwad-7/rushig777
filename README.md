@@ -3,7 +3,7 @@
 <h4 align="center">An ambitious✌, self-motivated, and confident Full web stack developer😊 with considerable technical skills😎 who possesses self-discipline and a growth mindset</h4>
 <br/>
 
-<img src=""/>
+
 🌍  I'm based in Pune, Maharashtra
 
 🌱 I’m currently learning Next.js
