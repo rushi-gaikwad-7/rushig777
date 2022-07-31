@@ -38,10 +38,26 @@
 
 <br/>
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rushig777)
-
-<code>
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/Kushal997-das/Kushal997-das/blob/master/Profile%20generator/marquee.svg"><img align="center" height="70" alt="Thanks" width="100%" src="https://github.com/Kushal997-das/Kushal997-das/raw/master/Profile%20generator/marquee.svg" style="max-width: 100%;"></a>
-</code>
+<h2 align="center"> My Project </h2>
+<table align="center" border="2">
+   <thead>
+        <tr>
+            <th>#</th>
+            <th>Project Name</th>
+            <th>Techonology/Stack</th>
+            <th>Live Url / Github Link</th>
+        </tr>
+    </thead>
+      <tbody>
+       <tr>
+            <td>1.</td>
+            <td>Online Payment Wallet Application</td>
+            <td>Java, Spring, Spring Boot, hibernate, MySql, Swagger</td>
+            <td><a href="https://github.com/durgeshsoni/Wallet-app" target="_blank">https://github.com/durgeshsoni/Wallet-app</a></td>
+        </tr>
+    </tbody>  
+</table>
+<br/>
+<h1 align="center"> Thank You ❤</h1>
 
 
