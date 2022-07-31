@@ -27,11 +27,7 @@
 # 📊GitHub Stats :
 
 <div align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushig777&show_icons=true&locale=en&theme=dark" alt="rushig777" /></div>
-<div align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushig777&theme=dark" alt="rushig777" /></a>
-</div>
 <br/>
-
 <div style="display: flex;" >
 <img align="center"  height="160px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushig777&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="rushi gaikwad" />
 
@@ -40,7 +36,7 @@
 <img align="center"  height="160px" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rushig777&theme=dark&ring=FFB19A&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="rushi gaikwad" />
   </div>
 
-
+<br/>
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rushig777)
 
