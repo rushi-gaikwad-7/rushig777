@@ -37,9 +37,8 @@
 
 
 <img align="center"  height="160px" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rushig777&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="rushi gaikwad" />
-
   </div>
-
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rushig777&show_icons=true&locale=en" alt="rushig777" /></p>
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rushig777)
