@@ -31,12 +31,14 @@
 </div>
 <br/>
 
-![](https://github-readme-stats.vercel.app/api?username=rushig777&theme=react&hide_border=false&include_all_commits=true&count_private=false)
+<div style="display: flex;" >
+<img align="center"  height="160px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushig777&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="rushi gaikwad" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=rushig777&theme=react&hide_border=false)
 
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rushig777&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<img align="center"  height="160px" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rushig777&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="rushi gaikwad" />
+
+  </div>
 
 
 
