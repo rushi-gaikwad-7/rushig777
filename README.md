@@ -51,6 +51,12 @@
             <td>HTML | CSS | JavaScript</td>
             <td><a href="https://effulgent-duckanoo-a89b0f.netlify.app/">DEMO</a></td>
         </tr>
+         <tr>
+            <td>2.</td>
+            <td><a href="https://github.com/rushig777/Udemy-clone">Udemy-clone</a></td>
+            <td>HTML | CSS | JavaScript</td>
+            <td><a href="https://verdant-kitten-680f9d.netlify.app/">DEMO</a></td>
+        </tr>
     </tbody>  
 </table>
 <br/>
