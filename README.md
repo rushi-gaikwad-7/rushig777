@@ -1,5 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushig777&label=Profile%20views&color=0e75b6&style=flat" alt="rushig777" /> </p>
-<h1 align="center">Hi <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif"  height="30" width="40" />, I'm Rushikesh Gaikwad</h1>
+<h1 align="center">Hi <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif"  height="45" width="45" />, I'm Rushikesh Gaikwad</h1>
 <h4 align="center">An ambitious✌, self-motivated, and confident Full web stack developer😊 with considerable technical skills😎 who possesses self-discipline and a growth mindset</h4>
 <br/>
 
@@ -13,8 +13,8 @@
 📫 Contact me at gaikwadrushi777@gmail.com
 
 💼 Portfolio https://rushikesh-gaikwad-portfolio.netlify.app/
+<h2 align="center"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" /></h2>
 
-<img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" align="center" />
 <p align="center">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/gaikwadrushi/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/gaikwadrushi/" height="30" width="40" /></a>
   <a href="https://twitter.com/_rushi_gaikwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_rushi_gaikwad" height="30" width="40" /></a>
