@@ -53,7 +53,7 @@
             <td>1.</td>
             <td><a href="https://github.com/rushig777/myntra-clone">myntra-clone</a></td>
             <td>HTML | CSS | JavaScript</td>
-            <td><a href="https://effulgent-duckanoo-a89b0f.netlify.app/"></a> PRIVIEW </td>
+            <td><a href="https://effulgent-duckanoo-a89b0f.netlify.app/">DEMO</a></td>
         </tr>
     </tbody>  
 </table>
