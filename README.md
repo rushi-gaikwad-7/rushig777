@@ -3,7 +3,6 @@
 <h4 align="center">An ambitious✌, self-motivated, and confident Full web stack developer😊 with considerable technical skills😎 who possesses self-discipline and a growth mindset</h4>
 <br/>
 
-<img src="https://github.com/rushig777/rushig777/blob/main/BOOST%20White%20and%20Black%20Minimal%20Personal%20Email%20Signature.png"/>
 🌍  I'm based in Pune, Maharashtra
 
 🌱 I’m currently learning Next.js
