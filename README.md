@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Next.js
 
-💬 Ask me about JavaScript, React,
+💬 Ask me about JavaScript, React.js,
 
 📫 Contact me at gaikwadrushi777@gmail.com
 
