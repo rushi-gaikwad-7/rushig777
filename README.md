@@ -30,7 +30,7 @@
 <br/>
 <div style="display: flex;" >
 <img align="center"  height="160px" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rushig777&show_icons=true&locale=en&layout=compact&theme=dark&ring=FFB19A&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="rushi gaikwad" />
-<br/>
+-
 <img align="center"  height="160px" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rushig777&theme=dark&ring=FFB19A&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="rushi gaikwad" />
   </div>
 
