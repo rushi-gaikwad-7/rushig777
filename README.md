@@ -6,7 +6,7 @@
 
 🌱 I’m currently learning Next.js
 
-💬 Ask me about JavaScript, React.js,
+💬 Ask me about JavaScript, React.js Express.js,
 
 📫 Contact me at gaikwadrushi777@gmail.com
 
@@ -73,7 +73,7 @@
             <td>4.</td>
             <td><a href="https://github.com/rushig777/festive-crayon-1023">Max-fashion-clone</a></td>
             <td>CSS | JavaScript | Next.js | Redux | Node.js | Express.js | mongoDB | Jwt | Material UI | bootstrap </td>
-            <td><a href="https://espncricinfo-clone.netlify.app/">DEMO</a></td>
+            <td><a href="">DEMO</a></td>
         </tr>
     </tbody>  
 </table>
