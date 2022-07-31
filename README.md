@@ -28,12 +28,12 @@
 
 <div align="center">
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushig777" alt="rushig777" /></a>
+</div>
+
  
 ![](https://github-readme-stats.vercel.app/api?username=rushig777&theme=react&hide_border=false&include_all_commits=true&count_private=false)
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rushig777&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rushig777&theme=react&hide_border=false)
-</div>
 
 
 
