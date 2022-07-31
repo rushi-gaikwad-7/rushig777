@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rushikesh Gaikwad</h1>
 <h4 align="center">An ambitious✌, self-motivated, and confident Full stack developer😊 with considerable technical skills😎 who possesses self-discipline and a growth mindset</h4>
 <div align="center">
-<img src="https://onlylinks.pro/wp-content/uploads/2021/01/main-qimg-fa7b4bdc3b2f73e749e5c2c646d4ae13.gif" align="center" style="width: 100%; height:100% " />
+<img src="https://i.pinimg.com/originals/cd/59/d6/cd59d626dc86397fe45080e6e9c7027d.gif" align="center" style="width: 100%; height:100% " />
 </div>  
 
 
@@ -36,8 +36,6 @@
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rushig777)
 
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rushig777&icon=0&color=12)](https://visitcount.itsvg.in)
