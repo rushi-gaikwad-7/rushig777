@@ -30,7 +30,7 @@
  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rushig777" alt="rushig777" /></a>
 </div>
 <br/>
-<div display="flex">
+<div>
 ![](https://github-readme-stats.vercel.app/api?username=rushig777&theme=react&hide_border=false&include_all_commits=true&count_private=false)
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=rushig777&theme=react&hide_border=false)
