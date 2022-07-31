@@ -1,6 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushig777&label=Profile%20views&color=0e75b6&style=flat" alt="rushig777" /> </p>
 <h1 align="center">Hi 👋, I'm Rushikesh Gaikwad</h1>
-<h4 align="center">An ambitious✌, self-motivated, and confident Full stack developer😊 with considerable technical skills😎 who possesses self-discipline and a growth mindset</h4>
+<h4 align="center">An ambitious✌, self-motivated, and confident Full web stack developer😊 with considerable technical skills😎 who possesses self-discipline and a growth mindset</h4>
 <h1 align="center"> <img src="https://developers.cemexgo.com/content/overview-welcome.gif" width="250px"  ></h1>
 
 
@@ -38,22 +38,22 @@
 
 <br/>
 
-<h2 align="center"> My Project </h2>
+<h2 align="center">MY PROJECTS</h2>
 <table align="center" border="2">
    <thead>
         <tr>
             <th>#</th>
-            <th>Project Name</th>
-            <th>Techonology/Stack</th>
-            <th>Live Url / Github Link</th>
+            <th>PROJECT NAME (GITHUB LINK)</th>
+            <th>TECH STACK</th>
+            <th>DEMO LINK</th>
         </tr>
     </thead>
       <tbody>
        <tr>
             <td>1.</td>
-            <td>Online Payment Wallet Application</td>
-            <td>Java, Spring, Spring Boot, hibernate, MySql, Swagger</td>
-            <td><a href="https://github.com/durgeshsoni/Wallet-app" target="_blank">https://github.com/durgeshsoni/Wallet-app</a></td>
+            <td><a href="https://github.com/rushig777/myntra-clone">myntra-clone</a></td>
+            <td>HTML | CSS | JavaScript</td>
+            <td><a href="https://effulgent-duckanoo-a89b0f.netlify.app/"></a> PRIVIEW </td>
         </tr>
     </tbody>  
 </table>
