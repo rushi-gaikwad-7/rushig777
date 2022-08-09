@@ -73,7 +73,7 @@
             <td><a href="https://espncricinfo-clone.netlify.app/">DEMO</a></td>
         </tr>
           <tr>
-            <td>4.</td>
+            <td>5.</td>
             <td><a href="https://github.com/rushig777/festive-crayon-1023">Max-fashion-clone</a></td>
             <td>CSS | JavaScript | Next.js | Redux | Node.js | Express.js | mongoDB | Jwt | Material UI | bootstrap </td>
             <td><a href="">DEMO</a></td>
