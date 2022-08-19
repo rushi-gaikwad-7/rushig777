@@ -1,7 +1,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rushig777&label=Profile%20views&color=0e75b6&style=flat" alt="rushig777" /> </p>
 <h1 align="center">Hi <img src="https://c.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif"  height="45" width="45" />, I'm Rushikesh Gaikwad</h1>
-<h4 align="center">An ambitious✌, self-motivated, and confident Full Stack Web Developer😊 with considerable technical skills😎 who possesses self-discipline and a growth mindset.<br/>
-  Looking forward to joining a progressive and challenging work environment</h4>
+<h4 align="center">An ambitious✌, self-motivated, and well-focused full stack developer👨‍💻 with considerable technical skills😎 who possesses self-discipline and a growth mindset.</h4>
 <br/>
 
 
