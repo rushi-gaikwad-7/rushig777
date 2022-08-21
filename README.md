@@ -36,51 +36,6 @@
   </div>
 
 <br/>
-
-<h2 align="center">MY PROJECTS</h2>
-<table align="center" border="2">
-   <thead>
-        <tr>
-            <th>#</th>
-            <th>PROJECT NAME (GITHUB LINK)</th>
-            <th>TECH STACK</th>
-            <th>DEMO LINK</th>
-        </tr>
-    </thead>
-      <tbody>
-       <tr>
-            <td>1.</td>
-            <td><a href="https://github.com/rushig777/myntra-clone">myntra-clone</a></td>
-            <td>HTML | CSS | JavaScript</td>
-            <td><a href="https://clone-of-myntra.netlify.app/">DEMO</a></td>
-        </tr>
-         <tr>
-            <td>2.</td>
-            <td><a href="https://github.com/rushig777/Udemy-clone">Udemy-clone</a></td>
-            <td>HTML | CSS | JavaScript</td>
-            <td><a href="https://cloneof-udemy.netlify.app/">DEMO</a></td>
-        </tr>
-         <tr>
-            <td>3.</td>
-            <td><a href="https://github.com/rushig777/bathandbodyworks-clone">bathandbodyworks-clone</a></td>
-            <td>CSS | JavaScript | React.js | Redux | styled-components</td>
-            <td><a href="https://singular-kleicha-5eef4a.netlify.app/">DEMO</a></td>
-        </tr>
-        <tr>
-            <td>4.</td>
-            <td><a href="https://github.com/rushig777/Cricinfo-Clone">espncricinfo-clone</a></td>
-            <td>CSS | JavaScript | React.js | Node.js | Express.js | Material UI </td>
-            <td><a href="https://espncricinfo-clone.netlify.app/">DEMO</a></td>
-        </tr>
-          <tr>
-            <td>5.</td>
-            <td><a href="https://github.com/rushig777/festive-crayon-1023">Max-fashion-clone</a></td>
-            <td>CSS | JavaScript | Next.js | Redux | Node.js | Express.js | mongoDB | Jwt | Material UI | bootstrap </td>
-            <td><a href="">DEMO</a></td>
-        </tr>
-    </tbody>  
-</table>
-<br/>
 <h1 align="center"> Thank You ❤</h1>
 
 
