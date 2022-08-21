@@ -34,7 +34,7 @@
 -
 <img align="center"  height="160px" width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rushig777&theme=dark&ring=FFB19A&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085" alt="rushi gaikwad" />
   </div>
-
+<br/>
 <a href="https://github.com/rushig777/github-readme-activity-graph"><img alt="Rushikesh Gaikwad's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=rushig777&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 <br/>
 <h1 align="center"> Thank You ❤</h1>
