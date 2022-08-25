@@ -12,7 +12,7 @@
 
 📫 Contact me at gaikwadrushi777@gmail.com
 
-💼 Portfolio https://rushikesh-gaikwad-portfolio.netlify.app/
+💼 Portfolio https://rushikesh-gaikwad-portfolio.netlify.app
 <h2 align="center"><img src="https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif" width="75" />
 
 <p align="center">
